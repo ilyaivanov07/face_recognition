@@ -1,3 +1,5 @@
+** this was forked from ageitgey/face_recognition for educational purposes **
+
 # Face Recognition
 
 Recognize and manipulate faces from Python or from the command line with
